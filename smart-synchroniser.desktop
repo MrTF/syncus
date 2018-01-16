@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.1
+Encoding=UTF-8
+Name=smart-synchroniser
+Comment=Bidirectional directory synchronise
+Exec=/usr/local/bin/smart-sync
+Terminal=false
+Type=Application
+Icon=/usr/local/smart-synchroniser/data/reload.png
+StartupNotify=true
+

@@ -1,0 +1,34 @@
+Smart Synchroniser - Bidirectional Directory Synchronisation Tool
+--------------------------------------------------------------------------------------------------
+Smart Synhroniser is a Bachelor thesis project under the name 
+Directory Synchronisation Tool  assigned to and developed by Fatih Tumen
+
+Please contact with <fthtmn at googlemail dot com> for any questions.
+This work is licensed under the term of GNU GPL v2. 
+See: COPYING file
+==========
+REQUIREMENTS
+==========
+Minimal hardware requirements include: a personal computer running on a 32-bit x86 architecture compatible CPU at frequency of at least 800 MHz, RAM with capacity of 512 MB, graphics card with at least 64 MB of RAM capacity supporting 24-bit colour or better.
+
+Operating system requirements include Linux kernel version not less than 2.6.24-21, 
+K Desktop Environment version not less than 3.5.10 or Gnome Desktop Environment 
+version not less than 2.22.1, X Window SystemTM version 11.
+
+Program languages requirements include Python version not less than 2.5.2, GCC version not less than 4.2.3, Qt version not less than 4.3.4, PyQt version not less than 4.3.3. 
+==========
+INSTALLATION
+==========
+Smart Synchroniser can be used without installing as follows:
+
+	$ cd smart-synchroniser
+	$ python smartsync
+
+If you wish to install it on your system anyway, do it AT YOUR OWN RISK as follows:
+
+	$ cd smart-synchroniser
+	$ sudo python setup.py install
+
+
+
+#end
